@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../arca"
+		},
+		{
+			"path": "../saj"
+		},
+		{
+			"path": "../tjdocs/tjdocs_bkp"
+		},
+		{
+			"path": "../tjdocs2_bk"
+		},
+		{
+			"path": "../sistemas_php/pubtjud"
+		},
+		{
+			"path": "../proad"
+		},
+		{
+			"path": "../sistemas_php/agenda"
+		},
+		{
+			"path": "../sistemas_php/corporativo"
+		},
+		{
+			"path": "../sistemas_php/meuphp"
+		},
+		{
+			"path": "../sistemas_php/ssi"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
